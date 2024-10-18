@@ -1,0 +1,42 @@
+{
+    "schedule": [
+      {
+        "day": "Senin",
+        "subjects": [
+          {"name": "INTER MAN", "instructor": "BUDI24", "jam": "07.30 - 09.00"},
+          {"name": "STATISTIK", "instructor": "AMALIA", "jam": "09.10 - 10.40"},
+          {"name": "PRAKTIKUM ANDROID", "instructor": "YOGI", "jam": "Sesuai Keputusan kelas"}
+        ]
+      },
+      {
+        "day": "Selasa",
+        "subjects": [
+          {"name": "CERDAS", "instructor": "MAYANG", "jam": "10.50 - 12.20"},
+          {"name": "MULTIMEDIA", "instructor": "SEFTO *", "jam": "13.00 - 14.30"},
+          {"name": "RPL", "instructor": "MUTIA", "jam": "14.40 - 16.10"}
+        ]
+      },
+      {
+        "day": "Rabu",
+        "subjects": [
+          {"name": "PBO 2", "instructor": "EDYA", "jam": "10.50 - 12.20"},
+          {"name": "ANSI", "instructor": "FITRAH", "jam": "13.00 - 14.30"},
+          {"name": "E-COMMER", "instructor": "SETIAWAN", "jam": "14.40 - 16.10"}
+        ]
+      },
+      {
+        "day": "Kamis",
+        "subjects": [
+          {"name": "P. VISUAL 3", "instructor": "SAIDI", "jam": "07.30 - 09.00"},
+          {"name": "T. KOMPIL", "instructor": "AL FATH", "jam": "09.10 - 10.40"}
+        ]
+      },
+      {
+        "day": "Jumat",
+        "subjects": [
+          {"name": "Bultang ga sih", "instructor": "Sekelasan", "jam": "Atur Ja Jam Berapa"}
+        ]
+      }
+    ]
+  }
+  
